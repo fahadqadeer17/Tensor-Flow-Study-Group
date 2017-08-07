@@ -13,6 +13,7 @@ In case you come up with a query, please post it in the issues section. The answ
 | 31.07.2017  | Shamsail | Constant |
 | 31.07.2017  | Tahseen  | Key Terms, Sessions, Resource Usage |
 | 04.08. 2017 | Naseer   | Matrix Operations |
-| 07.08. 2017 | Soumen   | Miscellaneous |
+| 07.08. 2017 | Soumen   | While Loops |
 | 07.08. 2017 | Shamsail | Methods of getting data into a TensorFlow program |
 | 07.08. 2017 | Junaid   | Batch Normalization |
+| 07.08. 2017 | Fahad    | Training & Convergence |
