@@ -15,3 +15,4 @@ In case you come up with a query, please post it in the issues section. The answ
 | 04.08. 2017 | Naseer   | Matrix Operations |
 | 07.08. 2017 | Soumen   | Miscellaneous |
 | 07.08. 2017 | Shamsail | Methods of getting data into a TensorFlow program |
+| 07.08. 2017 | Junaid   | Batch Normalization |
