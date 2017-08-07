@@ -17,3 +17,4 @@ In case you come up with a query, please post it in the issues section. The answ
 | 07.08. 2017 | Shamsail | Methods of getting data into a TensorFlow program |
 | 07.08. 2017 | Junaid   | Batch Normalization |
 | 07.08. 2017 | Fahad    | Training & Convergence |
+| 07.08.2017  | Naseer   | Model Saving and Restoring |
